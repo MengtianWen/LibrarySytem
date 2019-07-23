@@ -1,0 +1,55 @@
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.AdminWindow.resources
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.A_BooksAdd.resources
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.A_booksQuery.resources
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.A_FineReader.resources
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.A_readermanage.resources
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.A_ReadersAdd.resources
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.A_RecordBorrow.resources
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.A_returnBook.resources
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.LogWindow.resources
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ReadersWindow.resources
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Register.resources
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.R_basicInfo.resources
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.R_BooksQuery.resources
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.R_BooksReturn.resources
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.R_historyRecord.resources
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.R_updateInfo.resources
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.A_helpInfo.resources
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.R_HelpInfo.resources
+D:\My Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.A_updateInfo.resources
+E:\VS_Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+E:\VS_Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+E:\VS_Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+E:\VS_Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csprojAssemblyReference.cache
+E:\VS_Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.AdminWindow.resources
+E:\VS_Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.A_BooksAdd.resources
+E:\VS_Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.A_booksQuery.resources
+E:\VS_Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.A_FineReader.resources
+E:\VS_Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.A_helpInfo.resources
+E:\VS_Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.A_readermanage.resources
+E:\VS_Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.A_ReadersAdd.resources
+E:\VS_Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.A_RecordBorrow.resources
+E:\VS_Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.A_returnBook.resources
+E:\VS_Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.A_updateInfo.resources
+E:\VS_Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.LogWindow.resources
+E:\VS_Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+E:\VS_Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ReadersWindow.resources
+E:\VS_Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Register.resources
+E:\VS_Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.R_basicInfo.resources
+E:\VS_Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.R_BooksQuery.resources
+E:\VS_Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.R_BooksReturn.resources
+E:\VS_Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.R_HelpInfo.resources
+E:\VS_Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.R_historyRecord.resources
+E:\VS_Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.R_updateInfo.resources
+E:\VS_Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.cache
+E:\VS_Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+E:\VS_Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+E:\VS_Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
